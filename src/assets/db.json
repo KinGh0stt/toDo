@@ -16,14 +16,14 @@
       "colorId": "1"
     },
     {
-      "name": "sfsf",
+      "name": "Start",
       "colorId": "3",
-      "id": "ln-kJme"
+      "id": "4O_RAbk"
     },
     {
-      "name": "sdfsf",
-      "colorId": "7",
-      "id": "5svaqr1"
+      "name": "sadfsdfsdfaasdfasdfsfsfsfsfsfsf",
+      "colorId": "1",
+      "id": "KfkIyaf"
     }
   ],
   "tasks": [
@@ -50,6 +50,12 @@
       "listId": "2",
       "text": "Redux (redux-observable, redux-saga)",
       "completed": false
+    },
+    {
+      "listId": "2",
+      "text": "kk",
+      "completed": false,
+      "id": "zwwip-I"
     }
   ],
   "colors": [
